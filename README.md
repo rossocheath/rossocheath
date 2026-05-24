@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi, I'm Ros Socheath <img src="https://api.iconify.design/lucide:hand.svg" width="32" align="center" />
+# Ros Socheath
 
-### Laravel Developer • SaaS Builder • System Administrator  
+### Laravel Developer • SaaS Builder • System Administrator
+
 Building modern web platforms, automation tools, and production-ready Laravel applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rossocheath&style=flat-square)
@@ -13,7 +14,7 @@ Building modern web platforms, automation tools, and production-ready Laravel ap
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg" width="22" align="center" /> About Me
+## About Me
 
 I'm a developer from Cambodia focused on building practical, clean, and scalable web applications.
 
@@ -22,7 +23,7 @@ My current focus is building SaaS products, admin systems, static site hosting t
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg" width="22" align="center" /> Tech Stack
+## Tech Stack
 
 **Backend**  
 `Laravel` · `PHP` · `Livewire` · `FilamentPHP` · `REST API` · `MySQL` · `PostgreSQL` · `Redis`
@@ -30,25 +31,28 @@ My current focus is building SaaS products, admin systems, static site hosting t
 **Frontend**  
 `Tailwind CSS` · `Flux UI` · `Alpine.js` · `Blade` · `JavaScript` · `Monaco Editor`
 
-**DevOps & Tools**  
+**DevOps and Tools**  
 `Ubuntu Server` · `Nginx` · `Docker` · `Supervisor` · `Cloudflare` · `Git` · `GitHub`
 
 ---
 
-## <img src="https://api.iconify.design/lucide:briefcase-business.svg" width="22" align="center" /> Current Projects
+## Current Projects
 
 ### The SiteHub
+
 A modern static site builder and hosting platform built with Laravel, Livewire, Flux UI, and Tailwind CSS.
 
 ### The AniView
+
 An anime and manga discovery platform with multilingual UI, SEO support, AI article automation, and curated legal media links.
 
-### University & MIS Systems
+### University and MIS Systems
+
 Building and improving internal systems, exam management tools, admin dashboards, and production deployment workflows.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:target.svg" width="22" align="center" /> What I Care About
+## What I Care About
 
 - Clean and maintainable code
 - Professional UI and UX
@@ -59,7 +63,7 @@ Building and improving internal systems, exam management tools, admin dashboards
 
 ---
 
-## <img src="https://api.iconify.design/lucide:pin.svg" width="22" align="center" /> Featured Skills
+## Featured Skills
 
 ```php
 $developer = [
@@ -73,7 +77,7 @@ $developer = [
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg" width="22" align="center" /> Connect With Me
+## Connect With Me
 
 <div align="left">
 

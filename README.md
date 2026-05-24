@@ -5,6 +5,10 @@
 ### Laravel Developer • SaaS Builder • System Administrator  
 Building modern web platforms, automation tools, and production-ready Laravel applications.
 
+![Profile Views](https://komarev.com/ghpvc/?username=rossocheath&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/rossocheath?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/rossocheath?style=flat-square)
+
 </div>
 
 ---

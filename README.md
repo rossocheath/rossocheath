@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ros Socheath 👋
+# Hi, I'm Ros Socheath <img src="https://api.iconify.design/lucide:hand.svg" width="32" align="center" />
 
 ### Laravel Developer • SaaS Builder • System Administrator  
 Building modern web platforms, automation tools, and production-ready Laravel applications.
@@ -13,7 +13,7 @@ Building modern web platforms, automation tools, and production-ready Laravel ap
 
 ---
 
-## 🚀 About Me
+## <img src="https://api.iconify.design/lucide:rocket.svg" width="22" align="center" /> About Me
 
 I'm a developer from Cambodia focused on building practical, clean, and scalable web applications.
 
@@ -22,7 +22,7 @@ My current focus is building SaaS products, admin systems, static site hosting t
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg" width="22" align="center" /> Tech Stack
 
 **Backend**  
 `Laravel` · `PHP` · `Livewire` · `FilamentPHP` · `REST API` · `MySQL` · `PostgreSQL` · `Redis`
@@ -35,7 +35,7 @@ My current focus is building SaaS products, admin systems, static site hosting t
 
 ---
 
-## 💼 Current Projects
+## <img src="https://api.iconify.design/lucide:briefcase-business.svg" width="22" align="center" /> Current Projects
 
 ### The SiteHub
 A modern static site builder and hosting platform built with Laravel, Livewire, Flux UI, and Tailwind CSS.
@@ -48,7 +48,7 @@ Building and improving internal systems, exam management tools, admin dashboards
 
 ---
 
-## 🎯 What I Care About
+## <img src="https://api.iconify.design/lucide:target.svg" width="22" align="center" /> What I Care About
 
 - Clean and maintainable code
 - Professional UI and UX
@@ -59,7 +59,7 @@ Building and improving internal systems, exam management tools, admin dashboards
 
 ---
 
-## 📌 Featured Skills
+## <img src="https://api.iconify.design/lucide:pin.svg" width="22" align="center" /> Featured Skills
 
 ```php
 $developer = [
@@ -71,7 +71,9 @@ $developer = [
 ];
 ```
 
-## 📫 Connect With Me
+---
+
+## <img src="https://api.iconify.design/lucide:mail.svg" width="22" align="center" /> Connect With Me
 
 <div align="left">
 
